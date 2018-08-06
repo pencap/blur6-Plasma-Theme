@@ -1,5 +1,5 @@
 blur6 Plasma Theme
-=================
+==================
 
 ### what is blur6?
 * *blur6 is a desktop theme with transparency and blur for the KDE Plasma Desktop. The goal is to create a  consistent theme for the kde plasma user experience starting from the login screen till the shutdown dialog.*
@@ -14,6 +14,7 @@ blur6 Plasma Theme
 
 * *blur6 offers a Splash Screen matching the wallpaper*
 
+ ___
 
 ### Download and install external sources
 
@@ -71,6 +72,9 @@ blurKonsole.colorscheme is based on the wallpaper colors. blurDolphin.colorschem
 
  ___
 
+### To Do:
+I am currently working on a mixed icon theme for this desktop.
+ ___
 ### Credits
 
 the aurorae theme is based on:
