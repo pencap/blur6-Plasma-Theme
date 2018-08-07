@@ -1,16 +1,16 @@
 blur6 Plasma Theme
-==================
+=================
 
 ### what is blur6?
-* *blur6 is a desktop theme with transparency and blur for the KDE Plasma Desktop. The goal is to create a  consistent theme for the kde plasma user experience starting from the login screen till the shutdown dialog.*
+* *blur6 is a desktop theme with transparency and blur for the KDE Plasma Desktop. The goal is to create a consistent theme for the kde plasma user experience starting from the login screen till the shutdown dialog.*
 
-* *blur6 is heavily inspired and build arround [Helium Plasma Theme](https://www.opendesktop.org/p/998869/) by mcder and [Helium_Wallpaper (4K) ](https://www.opendesktop.org/p/1225178/) by Gfxcoorpinc .* 
+* *blur6 is heavily inspired and build around [Helium Plasma Theme](https://www.opendesktop.org/p/998869/) by mcder and [Helium_Wallpaper (4K) ](https://www.opendesktop.org/p/1225178/) by Gfxcoorpinc .* 
 
 * *blur6 includes a matching window theme for the kvantum engine based on the colors used by Helium.*
 
 * *blur6 comes with a fitting aurorae window decoration theme to match the kvantum theme.* 
 
-* *blur6 includes a konsole theme based on the Helium colors which I use for the terminal panel in Dolphin file manager and a seperate color scheme for the regular konsole window based on the colors of the wallpaper I use.*
+* *blur6 includes a konsole theme based on the Helium colors which I use for the terminal panel in Dolphin file manager and a separate color scheme for the regular konsole window based on the colors of the wallpaper I use.*
 
 * *blur6 offers a Splash Screen matching the wallpaper*
 
@@ -110,14 +110,3 @@ the colors are inspired by:
 **Helium_Wallpaper (4K)**
 
 *by Gfxcoorpinc*
-
-
-
-
-
-
-
-
-
-
-
